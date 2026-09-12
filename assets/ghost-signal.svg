@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="260" viewBox="0 0 960 260" role="img" aria-labelledby="title desc">
+  <title id="title">Pseudodev3 — Ghost Town signal</title>
+  <desc id="desc">A dark retro terminal banner with amber and blue signal lights.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#050709"/>
+      <stop offset="0.52" stop-color="#090a0c"/>
+      <stop offset="1" stop-color="#130d08"/>
+    </linearGradient>
+    <radialGradient id="blueGlow" cx="28%" cy="40%" r="55%">
+      <stop offset="0" stop-color="#8fc8ff" stop-opacity=".22"/>
+      <stop offset="1" stop-color="#8fc8ff" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="amberGlow" cx="72%" cy="45%" r="55%">
+      <stop offset="0" stop-color="#f1b45f" stop-opacity=".2"/>
+      <stop offset="1" stop-color="#f1b45f" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="scanlines" width="4" height="4" patternUnits="userSpaceOnUse">
+      <rect width="4" height="1" fill="#ffffff" opacity=".035"/>
+    </pattern>
+    <filter id="softBlue" x="-30%" y="-50%" width="160%" height="200%">
+      <feGaussianBlur stdDeviation="5" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <filter id="softAmber" x="-30%" y="-50%" width="160%" height="200%">
+      <feGaussianBlur stdDeviation="4" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+
+  <rect width="960" height="260" rx="8" fill="url(#bg)"/>
+  <rect width="960" height="260" rx="8" fill="url(#blueGlow)"/>
+  <rect width="960" height="260" rx="8" fill="url(#amberGlow)"/>
+  <rect x="12" y="12" width="936" height="236" rx="4" fill="none" stroke="#5b4631" stroke-opacity=".72"/>
+  <rect x="18" y="18" width="924" height="224" rx="2" fill="none" stroke="#91b7d4" stroke-opacity=".15"/>
+
+  <g font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace">
+    <text x="42" y="52" fill="#79c779" font-size="14" font-weight="700">● SIGNAL ACQUIRED</text>
+    <text x="918" y="52" fill="#9b8a72" font-size="12" text-anchor="end">NODE 03 // NG</text>
+
+    <text x="480" y="142" text-anchor="middle" font-size="59" font-weight="800" letter-spacing="13">
+      <tspan fill="#cde7ff" filter="url(#softBlue)">GHOST</tspan>
+      <tspan fill="#f4c47b" filter="url(#softAmber)">TOWN</tspan>
+    </text>
+
+    <text x="480" y="180" text-anchor="middle" fill="#d5cab8" font-size="17" letter-spacing="7">PSEUDODEV3</text>
+    <text x="480" y="216" text-anchor="middle" fill="#7e756b" font-size="11" letter-spacing="2">BUILDING STRANGE THINGS UNTIL THE SIGNAL DIES</text>
+  </g>
+
+  <g fill="#e5bd7a" opacity=".7">
+    <circle cx="70" cy="216" r="1.4"/><circle cx="122" cy="83" r="1"/><circle cx="845" cy="91" r="1.2"/>
+    <circle cx="889" cy="199" r="1"/><circle cx="780" cy="221" r="1.3"/><circle cx="193" cy="208" r=".9"/>
+  </g>
+  <rect width="960" height="260" rx="8" fill="url(#scanlines)"/>
+</svg>
