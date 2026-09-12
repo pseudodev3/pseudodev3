@@ -16,7 +16,7 @@
 
 ## `> whoami`
 
-I'm **ghostt** — a vibecoder from Nigeria turning odd ideas into working software.
+I'm **ghostt** — a vibecoder turning odd ideas into working software.
 
 I like interfaces that feel discovered rather than generated: old operating systems, forgotten corners of the web, pixel worlds, strange economies, and products with enough personality to haunt you a little.
 
@@ -32,7 +32,6 @@ stack        : TypeScript · JavaScript · Python · Rust · Solidity · persist
 | Signal | What escaped the lab | Status |
 |:--|:--|:--:|
 | [**Ghost Town**](https://ghosttdev.ddns.net/) | My living corner of the internet: CRT windows, ambient noise, particles, projects and a ghost in the machine. | `ONLINE` |
-| [**Pons Family**](https://ponsfamily.com/) | A token launchpad on Robinhood Chain, from bonding curves to permanently locked liquidity. | `ONCHAIN` |
 | [**Hakoware**](https://github.com/pseudodev3/hakoware) | Social bankruptcy, except reputation is aura and the interface refuses to look like a bank. | `EXPERIMENT` |
 | [**PixelBlog**](https://github.com/pseudodev3/pixel-blog) | An embeddable pixel-art blog with Shadow DOM isolation and CRT attitude. | `OPEN SOURCE` |
 
