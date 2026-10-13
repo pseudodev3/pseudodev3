@@ -36,7 +36,7 @@
 
   <g font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace">
     <text x="42" y="52" fill="#79c779" font-size="14" font-weight="700">● SIGNAL ACQUIRED</text>
-    <text x="918" y="52" fill="#9b8a72" font-size="12" text-anchor="end">NODE 03 // NG</text>
+    <text x="918" y="52" fill="#9b8a72" font-size="12" text-anchor="end">NODE 03 </text>
 
     <text x="480" y="142" text-anchor="middle" font-size="59" font-weight="800" letter-spacing="13">
       <tspan fill="#cde7ff" filter="url(#softBlue)">GHOST</tspan>
