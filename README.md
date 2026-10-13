@@ -3,7 +3,7 @@
 </div>
 
 <p align="center">
-  <code>VIBECODER</code>&nbsp;&nbsp;·&nbsp;&nbsp;<code>INTERNET ARCHAEOLOGIST</code>&nbsp;&nbsp;·&nbsp;&nbsp;<code>BUILDER OF STRANGE THINGS</code>
+  <code></code>&nbsp;&nbsp;·&nbsp;&nbsp;<code>INTERNET ARCHAEOLOGIST</code>&nbsp;&nbsp;·&nbsp;&nbsp;<code>BUILDER OF STRANGE THINGS</code>
 </p>
 
 <p align="center">
@@ -16,7 +16,7 @@
 
 ## `> whoami`
 
-I'm **ghostt** — a vibecoder turning odd ideas into working software.
+I'm **ghostt** — just a guy turning odd ideas into working software.
 
 I like interfaces that feel discovered rather than generated: old operating systems, forgotten corners of the web, pixel worlds, strange economies, and products with enough personality to haunt you a little.
 
