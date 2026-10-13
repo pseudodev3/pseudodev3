@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/ghost-signal.svg" width="100%" alt="Pseudodev3 — signal acquired from Ghost Town" />
+  <img src="./assets/ghostsignal.svg" width="100%" alt="Pseudodev3 — signal acquired from Ghost Town" />
 </div>
 
 <p align="center">
