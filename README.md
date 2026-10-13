@@ -8,8 +8,6 @@
 
 <p align="center">
   <a href="https://ghosttdev.ddns.net/">enter ghost town</a>
-  &nbsp;·&nbsp;
-  <a href="https://github.com/pseudodev3?tab=repositories">inspect the artifacts</a>
 </p>
 
 ## `> whoami`
