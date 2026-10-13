@@ -3,7 +3,7 @@
 </div>
 
 <p align="center">
-  <code></code>&nbsp;&nbsp;·&nbsp;&nbsp;<code>INTERNET ARCHAEOLOGIST</code>&nbsp;&nbsp;·&nbsp;&nbsp;<code>BUILDER OF STRANGE THINGS</code>
+  &nbsp;&nbsp;·&nbsp;&nbsp;<code>BUILDER OF STRANGE THINGS</code>
 </p>
 
 <p align="center">
